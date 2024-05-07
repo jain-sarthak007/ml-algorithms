@@ -1,5 +1,5 @@
 # Students Perfromace Analysis
-The dataset had been loaded from kaggle
+The dataset had been loaded from kaggle 
 # Overview
 The Student Performance dataset contains information about students' demographic attributes and their scores in math, reading, and writing exams.
 The dataset is commonly used in education research and machine learning to analyze factors influencing students' academic performance.
